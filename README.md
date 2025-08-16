@@ -42,9 +42,12 @@ iv. Installing dependencies
 brew install curl screen iptables git wget lz4 jq nano automake autoconf tmux htop leveldb pkg-config openssl@3 ncdu unzip
 ```
 ---
-## 1. For Linux/WSL
+## 1. For Windows, intall WSL
 
-Install Dependecies
+* Install Windows Subsystem for Linux (WSL) if haven't already, use this guide to install Linux on Windows: https://github.com/BlessedCataLysT/WSL/blob/main/intall-wsl.md
+---
+
+Install Dependecies (WSL/Linux)
 
 Packages:
 ```
