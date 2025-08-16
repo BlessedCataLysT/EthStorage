@@ -1,6 +1,8 @@
 # EthStorage
 EthStorage V1 Trusted Ceremoney Setup
 
+<img width="1000" height="560" alt="image" src="https://github.com/user-attachments/assets/b92b4730-e19d-47ba-9098-3e260833e5b1" />
+
 ## Requirements for Participation
 
 ### 1. Operating System
